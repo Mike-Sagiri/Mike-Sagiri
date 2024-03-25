@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mike-Sagiri
 - 👀 I’m interested in coding but I'm just a beginner.
 - 🌱 I’m currently learning c++ and python.
-- 💞️ I’m looking to collaborate on computer science in biology or bioinfomatics.
+- 💞️ I’m looking to collaborate on aritificial intelligence, especially automatic driving and robotics.
 - 📫 How to reach me :By sendinge emails to dangkuchangge@gmail.com.
 
 <!---
